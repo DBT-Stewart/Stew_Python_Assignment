@@ -1,5 +1,5 @@
 import unittest
-from src.q01_finding_the_percentage.util import s_mark
+from src.01_finding_the_percentage.util import s_mark
 
 class TestQ1(unittest.TestCase):
     def test_valid_student(self):
