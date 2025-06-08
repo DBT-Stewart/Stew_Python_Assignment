@@ -2,7 +2,6 @@ import sys
 import os
 import unittest
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../')))
-# test/q01_finding_the_percentage/test_finding_the_percentage.py
 from src.q01_finding_the_percentage.util import s_mark
 
 class TestQ1(unittest.TestCase):
